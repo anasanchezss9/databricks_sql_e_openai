@@ -1,0 +1,33 @@
+CodigoCliente;Titulo;PrimeiroNome;UltimoNome;Idade;Sexo;Endereco;Cidade;UFCompleto;CEP;Pais;PaisCompleto;Email;RendaMensal;PercentualUtilizacaoLimite;QtdTransacoesNegadas;AnosDeRelacionamentoBanco;JaUsouChequeEspecial;QtdEmprestimos;NumeroAtendimentos;TMA;IndiceSatisfacao;Saldo;CLTV;CanalPref;Churn;UF;mail_domain
+2020;Sra.;Luana;Araujo;56;Feminino;Rua 4 831;Fortaleza;Ceará;60733-331;BR;Brazil;LuanaCorreiaAraujo@superrito.com;5025;1.0;5;4;0;1;21;164;3;6539;87;SMS;1;CE;superrito.com
+2021;Sra.;Mariana;Pereira;61;Feminino;Travessa Luís Afonso F. de Araújo 2088;Castanhal;Pará;68746-240;BR;Brazil;MarianaAlmeidaPereira@teleworm.us;4280;0.33;2;19;0;3;3;2;5;2288;56;Push;0;PA;teleworm.us
+2022;Sr.;Rodrigo;Silva;66;Masculino;Rua Terenas 333;Apucarana;Paraná;86812-427;BR;Brazil;RodrigoLimaSilva@cuvox.de;4187;0.44;4;12;0;2;3;0;5;6198;68;Ligacao;0;PR;cuvox.de
+2023;Sra.;Luiza;Goncalves;47;Feminino;Praça Washington Luiz 1511;Fortaleza;Ceará;60441-830;BR;Brazil;LuizaPintoGoncalves@dayrep.com;3614;0.13;20;16;0;3;2;5;5;8433;50;Email;0;CE;dayrep.com
+2024;Sra.;Fernanda;Araujo;50;Feminino;Rua Francisco Sebastião Borges 2058;Pindamonhangaba;São Paulo;12440-220;BR;Brazil;FernandaBarrosAraujo@armyspy.com;6286;0.88;4;4;0;1;17;80;0;4040;49;Ligacao;1;SP;armyspy.com
+2025;Sr.;Eduardo;Goncalves;30;Masculino;Rua Padre Champagnat 550;Cascavel;Paraná;85812-060;BR;Brazil;EduardoRochaGoncalves@teleworm.us;6636;1.0;9;1;0;3;13;71;0;7220;72;SMS;1;PR;teleworm.us
+2026;Sra.;Aline;Lima;35;Feminino;Rua Doutor Pedro Lemos 59;Teresina;Piauí;64017-685;BR;Brazil;AlineAzevedoLima@rhyta.com;8641;0.83;12;2;0;4;34;53;3;6226;82;Email;1;PI;rhyta.com
+2027;Sra.;Sarah;Martins;30;Feminino;Rua Rio Argentina 1797;Olinda;Pernambuco;53350-640;BR;Brazil;SarahRodriguesMartins@superrito.com;3588;0.04;1;6;1;1;1;5;5;5335;86;Ligacao;0;PE;superrito.com
+2028;Sr.;Vinícius;Rodrigues;18;Masculino;Rua Lituânia 648;Avaré;São Paulo;18707-390;BR;Brazil;ViniciusPereiraRodrigues@jourrapide.com;7740;1.0;9;14;0;2;20;146;1;3797;52;Push;1;SP;jourrapide.com
+2029;Sra.;Camila;Pinto;37;Feminino;Rua 418 1671;Fortaleza;Ceará;60866-520;BR;Brazil;CamilaGomesPinto@gustr.com;5420;1.0;6;7;0;4;14;142;0;8542;89;Email;1;CE;gustr.com
+2030;Sr.;Kauã;Melo;42;Masculino;Avenida Major Francisco Bueno Garcia Leme 1482;Pindamonhangaba;São Paulo;12425-070;BR;Brazil;KauaFernandesMelo@gustr.com;5598;0.83;9;12;0;0;44;127;3;7813;68;Email;1;SP;gustr.com
+2031;Sr.;Nicolash;Carvalho;62;Masculino;Rua Doutor Carlos Motta Pinto 1308;São Paulo;São Paulo;05760-040;BR;Brazil;NicolashFerreiraCarvalho@gustr.com;7214;0.47;3;17;1;4;1;3;4;9007;68;Ligacao;0;SP;gustr.com
+2032;Sra.;Giovanna;Goncalves;55;Feminino;Rua Dois 571;Rio de Janeiro;Rio de Janeiro;23063-090;BR;Brazil;GiovannaCardosoGoncalves@superrito.com;3240;0.93;20;16;1;1;45;48;2;5650;48;Email;1;RJ;superrito.com
+2033;Sr.;Murilo;Araujo;47;Masculino;Rua Acaricuara 817;São Paulo;São Paulo;05185-440;BR;Brazil;MuriloSousaAraujo@rhyta.com;4699;0.19;11;16;0;5;3;6;5;8516;73;Push;0;SP;rhyta.com
+2034;Sra.;Aline;Melo;55;Feminino;Rua Itaipava 1491;Contagem;Minas Gerais;32073-660;BR;Brazil;AlineAlvesMelo@cuvox.de;3257;1.0;3;19;0;3;34;129;1;3721;33;SMS;1;MG;cuvox.de
+2035;Sr.;Igor;Lima;21;Masculino;Travessa Eloi 320;São Gonçalo;Rio de Janeiro;24420-080;BR;Brazil;IgorBarbosaLima@superrito.com;4573;0.0;3;3;0;5;1;4;4;946;87;SMS;0;RJ;superrito.com
+2036;Sr.;Paulo;Barros;35;Masculino;Praça Paranaguá 1956;Natal;Rio Grande do Norte;59124-190;BR;Brazil;PauloPereiraBarros@rhyta.com;4295;1.0;11;20;0;4;20;51;1;1161;55;SMS;1;RN;rhyta.com
+2037;Sra.;Fernanda;Azevedo;20;Feminino;Rua Arcy Neves 1239;Curitiba;Paraná;81220-320;BR;Brazil;FernandaAlmeidaAzevedo@armyspy.com;5924;0.39;9;14;0;4;2;8;4;3297;30;Email;0;PR;armyspy.com
+2038;Sra.;Julieta;Pereira;42;Feminino;Rua Guassi 404;Recife;Pernambuco;52011-271;BR;Brazil;JulietaSousaPereira@jourrapide.com;7713;0.89;8;2;0;0;50;33;2;4190;50;Ligacao;1;PE;jourrapide.com
+2039;Sr.;Daniel;Silva;18;Masculino;Rua Guará 500;Ipatinga;Minas Gerais;35162-505;BR;Brazil;DanielRochaSilva@einrot.com;9796;0.27;1;3;0;0;3;2;4;272;66;SMS;0;MG;einrot.com
+2040;Sr.;Felipe;Ferreira;60;Masculino;Rua Rezende Machado 1387;Goiânia;Goiás;74780-545;BR;Brazil;FelipeDiasFerreira@dayrep.com;7191;0.11;3;7;0;0;2;2;4;3520;48;SMS;0;GO;dayrep.com
+2041;Sra.;Livia;Silva;51;Feminino;Vila Jacinta 1173;João Pessoa;Paraíba;58070-005;BR;Brazil;LiviaRochaSilva@fleckens.hu;3193;0.05;12;5;0;3;3;8;4;2175;81;Email;0;PB;fleckens.hu
+2042;Sr.;Pedro;Cunha;47;Masculino;Rua Itajaí 1632;São Paulo;São Paulo;03162-060;BR;Brazil;PedroBarbosaCunha@armyspy.com;9747;0.18;1;5;0;3;3;6;4;861;49;Push;0;SP;armyspy.com
+2043;Sr.;Vinícius;Carvalho;25;Masculino;Rua Ernestina Castro Cunha 226;Uberlândia;Minas Gerais;38411-344;BR;Brazil;ViniciusGoncalvesCarvalho@gustr.com;6640;0.39;3;8;1;0;1;8;5;7081;63;SMS;0;MG;gustr.com
+2044;Sr.;Antônio;Azevedo;38;Masculino;Rua Barcarena 91;Jaboatão dos Guararapes;Pernambuco;54340-020;BR;Brazil;AntonioFerreiraAzevedo@teleworm.us;9064;0.81;20;15;0;2;33;193;0;5393;57;SMS;1;PE;teleworm.us
+2045;Sr.;Vitor;Ferreira;49;Masculino;Rua 5 702;Manaus;Amazonas;69054-420;BR;Brazil;VitorAraujoFerreira@superrito.com;4520;1.0;12;8;0;3;11;177;0;8019;85;Email;1;AM;superrito.com
+2046;Sra.;Gabrielle;Gomes;37;Feminino;Praça Doutor Francisco Romeiro 1456;Pindamonhangaba;São Paulo;12400-220;BR;Brazil;GabrielleSilvaGomes@einrot.com;5996;0.88;9;20;0;1;16;75;1;4971;46;Email;1;SP;einrot.com
+2047;Sr.;Kauan;Costa;21;Masculino;Rua São Damião 489;Juiz de Fora;Minas Gerais;36035-580;BR;Brazil;KauanCastroCosta@rhyta.com;6919;0.23;7;0;1;1;1;2;5;7766;81;Push;0;MG;rhyta.com
+2048;Sr.;Luís;Carvalho;20;Masculino;Rua João Kerhle 1634;Serra Talhada;Pernambuco;56912-060;BR;Brazil;LuisAraujoCarvalho@gustr.com;8172;0.88;3;0;0;1;47;135;1;5583;71;Push;1;PE;gustr.com
+2049;Sr.;Kauã;Carvalho;53;Masculino;Rua Leonardo da Vinci 2049;Rio de Janeiro;Rio de Janeiro;21831-200;BR;Brazil;KauaCastroCarvalho@superrito.com;6960;1.0;5;4;1;2;43;83;0;547;37;SMS;1;RJ;superrito.com
+2050;Sr.;Kauã;Barros;58;Masculino;Rua Quartzo 717;Teresina;Piauí;64008-060;BR;Brazil;KauaCunhaBarros@jourrapide.com;5753;1.0;7;2;0;4;15;52;2;934;36;Push;1;PI;jourrapide.com
+2051;Sra.;Gabriela;Correia;29;Feminino;Rua João Schaia 324;Ponta Grossa;Paraná;84015-815;BR;Brazil;GabrielaFerreiraCorreia@rhyta.com;6113;0.9;11;3;1;4;17;190;0;3258;52;Ligacao;1;PR;rhyta.comß
